@@ -6,7 +6,9 @@ A list of optical media that I own (or can verify) that has copy protection.
       ##### *Hallucinations by David Usher (724359303222) (https://www.discogs.com/David-Usher-Hallucinations/release/1862979) - Cactus Data Shield 200.0.4 (4.1 build 2e)
 2. Extended Copy Protection:
       ##### *Official list made by Sony: (https://web.archive.org/web/20110722190133/http://www.myce.com/news/Sony-officially-lists-52-XCP-infected-CDs--faces-a-loss-of-sales-11149/)
-      ##### *Touch by Amerie (82796-90763-2) (can't find exact Discogs release) - XCP2 (Version 1.5)
+      ##### *Touch by Amerie (8 2796-90763-2) (can't find exact Discogs release) - XCP2 (Version 1.5)
+3. Mediamax CD-3:
+      ##### * Afterglow Live by Sarah McLachlan (8 2876-64543-2 1) (https://www.discogs.com/Sarah-McLachlan-Afterglow-Live/release/7757262) - MediaMax CD-3
 
 ## Game CD/DVD protections:
 1. CD Check:
