@@ -20,15 +20,15 @@ A list of optical media that I own (or can verify) that has copy protection.
 1. SafeDisc:
       ##### *Call of Duty - World at War (047875332478) - SafeDisc 4.90.010
       ##### *Command & Conquer - The First Decade - SafeDisc 1.11.000 + SafeDisc 1.30.010 + SafeDisc 2.40 + SafeDisc 4.60.000 + SafeDisc 2.90-3.10? + EA CdKey Registration Module 1.05.04.00 + EA CdKey Registration Module 1.2.0.117
-      ##### *Microsoft Combat Flight Simulator 3 - Battle For Europe - SafeDisc 2.70
-      ##### *Need For Speed - High Stakes - SafeDisc 1.06.000
-      ##### *Primal 3D Interactive Hand - SafeDisc 2.51
-      ##### *Primal 3D Interactive Shoulder - SafeDisc 1.45.011
-      ##### *Primal 3D Interactive Knee 1.1 - SafeDisc 1.45.011
-      ##### *Primal 3D Interactive Hip - SafeDisc 1.45.011
-      ##### *Primal 3D Interactive Foot & Ankle - SafeDisc 2.51
-      ##### *Primal 3D Interactive Spine - SafeDisc 2.40
-      ##### *Rome Total War - Barbarian Invasion - SafeDisc 4.00.003
+      ##### *Microsoft Combat Flight Simulator 3 - Battle For Europe - SafeDisc 2.70 (https://archive.org/details/MDFMDSSafeDisc234EFMWriter)
+      ##### *Need For Speed - High Stakes - SafeDisc 1.06.000 (https://archive.org/details/NeedForSpeed-HighStakesSafeDiscElectronicArts2002)
+      ##### *Primal 3D Interactive Hand - SafeDisc 2.51 (https://archive.org/details/primal-3d-interactive-series-professional-edition-2002-english)
+      ##### *Primal 3D Interactive Shoulder - SafeDisc 1.45.011 (https://archive.org/details/primal-3d-interactive-series-professional-edition-2002-english)
+      ##### *Primal 3D Interactive Knee 1.1 - SafeDisc 1.45.011 (https://archive.org/details/primal-3d-interactive-series-professional-edition-2002-english)
+      ##### *Primal 3D Interactive Hip - SafeDisc 1.45.011 (https://archive.org/details/primal-3d-interactive-series-professional-edition-2002-english)
+      ##### *Primal 3D Interactive Foot & Ankle - SafeDisc 2.51 (https://archive.org/details/primal-3d-interactive-series-professional-edition-2002-english)
+      ##### *Primal 3D Interactive Spine - SafeDisc 2.40 (https://archive.org/details/primal-3d-interactive-series-professional-edition-2002-english)
+      ##### *Rome Total War - Barbarian Invasion - SafeDisc 4.00.003 (https://archive.org/details/RomeTotalWar-BarbarianInvasionSafeDiscCreativeAssembly2005)
       ##### *The Sims (Thai + English) - SafeDisc 1.40.004 (https://archive.org/details/the-sims-thai-english-electronic-arts-2000)
       ##### *The Sims: สร้างชีวิต ลิขิตฝัน/Livin' Large Expansion Pack (Thai + English) - SafeDisc 1.41.000 + SafeDisc 1.50.020 (https://archive.org/details/the-sims-livin-large-expansion-pack-thai-english-electronic-arts-2000)
 2. SecuROM:
