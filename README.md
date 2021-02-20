@@ -29,6 +29,8 @@ A list of optical media that I own (or can verify) that has copy protection.
       ##### *Primal 3D Interactive Foot & Ankle - SafeDisc 2.51
       ##### *Primal 3D Interactive Spine - SafeDisc 2.40
       ##### *Rome Total War - Barbarian Invasion - SafeDisc 4.00.003
+      ##### *The Sims (Thai + English) - SafeDisc 1.40.004 (https://archive.org/details/the-sims-thai-english-electronic-arts-2000)
+      ##### *The Sims: สร้างชีวิต ลิขิตฝัน/Livin' Large Expansion Pack (Thai + English) - SafeDisc 1.41.000 + SafeDisc 1.50.020 (https://archive.org/details/the-sims-livin-large-expansion-pack-thai-english-electronic-arts-2000)
 2. SecuROM:
       ##### *Battlefield 2142 Deluxe Edition (ISBN 0-7845-4439-5) (014633158618) - SecuROM 7.34.0014 + EA CdKey Registration Module 1.07.08.02 + Cucko (EA Cucko)
       ##### *Star Was - Empire at War - Forces of Corruption Expansion (02372713188) - SecuROM 7.28.0011    
