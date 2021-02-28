@@ -30,6 +30,7 @@ A list of optical media that I own (or can verify) that has copy protection.
       ##### *Primal 3D Interactive Spine - SafeDisc 2.40 (https://archive.org/details/primal-3d-interactive-series-professional-edition-2002-english)
       ##### *Rome Total War - Barbarian Invasion - SafeDisc 4.00.003 (https://archive.org/details/RomeTotalWar-BarbarianInvasionSafeDiscCreativeAssembly2005)
       ##### *Championship Bass - SafeDisc 1.41.000
+      ##### *Thief 2 - The Metal Age (Disc Two - Game) - SafeDisc 1.41.000
       ##### *The Sims (Thai + English) - SafeDisc 1.40.004 (https://archive.org/details/the-sims-thai-english-electronic-arts-2000)
       ##### *The Sims: สร้างชีวิต ลิขิตฝัน/Livin' Large Expansion Pack (Thai + English) - SafeDisc 1.41.000 + SafeDisc 1.50.020 (https://archive.org/details/the-sims-livin-large-expansion-pack-thai-english-electronic-arts-2000)
 2. SecuROM:
